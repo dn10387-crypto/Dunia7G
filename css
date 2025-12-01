@@ -1,5 +1,11 @@
-background color{
-  color:#C4DBF7;
+body{
+background-color:#C4DBF7;
 }
 
+h1{
+  color:#C4DBF7;
+  Font-family:"Georgia";
+}
 
+p{
+  color:#F8F9FA
